@@ -1,0 +1,16 @@
+{
+  "name": "learn-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "ieunji <2690055722@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
