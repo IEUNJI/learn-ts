@@ -11,6 +11,10 @@
   "author": "ieunji <2690055722@qq.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/jquery": "^3.5.5",
     "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
   }
 }
